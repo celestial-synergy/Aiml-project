@@ -1,5 +1,5 @@
 # Aiml-project
-Name - Saumya Dixit Registration no.-25BAI11460
+Name - MANUSHRI GUPTA Registration no.-25BAI11543
 
 Smart food waste reduction system
 
